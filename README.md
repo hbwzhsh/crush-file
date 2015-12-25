@@ -1,1 +1,1 @@
-spark 合并hdfs文件系统小文件
+spark 合并hdfs小文件为parquet file
